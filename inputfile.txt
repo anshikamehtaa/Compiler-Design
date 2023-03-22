@@ -1,0 +1,2 @@
+hey this 	is the file for lex 	program 
+to count the 	number of spaces and tabspace
